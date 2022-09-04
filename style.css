@@ -1,0 +1,14 @@
+:root {
+    --primary: #B14D59;
+}
+
+.navbar-brand h2 {
+    color: #B14D59 !important;
+    font-size: 40px;
+    font-weight: 500;
+}
+
+.navbar .nav-item .btn {
+    color: white;
+    background-color: #B14D59;
+}
